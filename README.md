@@ -1,3 +1,15 @@
+# Advanced Facebook like menu
+
+Utilized:
+
+-   React Hooks
+-   useEffect
+-   css :root for styling
+-   fontawesome icons
+-   CSSTransition from react-transition-group
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
